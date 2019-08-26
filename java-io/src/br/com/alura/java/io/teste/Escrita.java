@@ -19,7 +19,7 @@ public class Escrita {
 						int i = 0;
 						while(i < 20){
 							
-							  writer.append("Bruno");
+							  writer.append("Bruno Bianconcini");
 							  writer.newLine();
 							i++;
 						}
